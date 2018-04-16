@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="133.87297mm"
+   height="40.948402mm"
+   viewBox="0 0 474.35308 145.09277"
+   id="svg4529"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="SnippetOutput.svg">
+  <defs
+     id="defs4531" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.17"
+     inkscape:cx="195.01292"
+     inkscape:cy="164.64281"
+     inkscape:document-units="px"
+     inkscape:current-layer="g4427"
+     showgrid="true"
+     showguides="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="708"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-grids="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid5077"
+       originx="-3.8110554"
+       originy="-663.52327" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4534">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-3.8110544,-243.74623)">
+    <g
+       transform="translate(2.2862193,-330.61117)"
+       id="g4730">
+      <g
+         transform="translate(-2,0)"
+         id="g4505">
+        <g
+           id="g4427">
+          <flowRoot
+             transform="translate(-43.983954,528.23038)"
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="flowRoot4160-1-7-6-1-2-2"
+             xml:space="preserve"><flowRegion
+               id="flowRegion4162-0-9-6-6-0-7"><rect
+                 y="42.571995"
+                 x="47.552448"
+                 height="162.17101"
+                 width="526.14532"
+                 id="rect4164-9-6-5-5-7-7" /></flowRegion><flowPara
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+               id="flowPara4194-1-5-7-3-8-5">String mConsumerKey;</flowPara><flowPara
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+               id="flowPara5980">Twitter mTwitter;</flowPara><flowPara
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+               id="flowPara5982">AccessToken mAccessToken;</flowPara><flowPara
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+               id="flowPara5984">String mSecretKey;</flowPara><flowPara
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+               id="flowPara5986"><flowSpan
+   style="font-size:15.00000095px;fill:#0000ff;fill-opacity:1"
+   id="flowSpan5998">if</flowSpan> (mAccessToken != <flowSpan
+   style="font-size:15.00000095px;fill:#0000ff;fill-opacity:1"
+   id="flowSpan6000">null</flowSpan>) {</flowPara><flowPara
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+               id="flowPara5990">  mTwitter.<flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.00000095px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="flowSpan4242">setOAuthConsumer</flowSpan>(mConsumerKey, mSecretKey);</flowPara><flowPara
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+               id="flowPara5992">  mTwitter.<flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.00000095px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="flowSpan4244">setOAuthAccessToken</flowSpan>(mAccessToken);</flowPara><flowPara
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+               id="flowPara5994">}</flowPara><flowPara
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.00000095px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+               id="flowPara5996" /></flowRoot>        </g>
+      </g>
+    </g>
+  </g>
+</svg>
